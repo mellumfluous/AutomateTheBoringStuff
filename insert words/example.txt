@@ -1,8 +1,10 @@
 Hello {Name},
 
-Thank you for visiting our store. It was a pleasure working with you!
+Thank you for visiting our store in {City}. It was a pleasure working with you!
 We hope you had a great experience and would appreciate it very much if you
-could take the time to rate your experience at {Store Name}.
+could take the time to rate your experience at {Store Name}. Feel free to leave us a
+message either by going to our website and going to the "contact us" section
+or filling out a survey in person.
 
 Sincerely,
 {Store Employee}
